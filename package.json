@@ -1,13 +1,13 @@
 {
-  "name": "raiseddog-frontend",
+  "name": "gulp-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "Html layout example template",
   "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "dastanaron",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "del": "^5.0.0",
